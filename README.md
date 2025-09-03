@@ -44,5 +44,14 @@ Do you want to add another subject? (Yes/No): Yes
  Enter student name
  Enter subject
  Enter scores
+#Quiz Generator
+  enter student name:
+  enter subject:
+  enter topic:
+  generate quiz:
+
+##Contributers
+-Marquez, Wynstelle Z. (Tasks overview, grades report)
+-Duroy, Gaylhynne P. (Quiz generator, grades report)
 
 
