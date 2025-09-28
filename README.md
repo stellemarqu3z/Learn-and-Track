@@ -31,24 +31,24 @@ Quiz Results:
 
 ##Example output
 # Task overview-
- Add New Task: Linear equations
- Enter subject: Algebra
- Enter Task: 
- Enter Deadline:
-Do you want to view your tasks (Yes/No): Yes
+- Add New Task: Linear equations
+- Enter subject: Algebra
+- Enter Task: 
+- Enter Deadline:
+-Do you want to view your tasks (Yes/No): Yes
 # Grades Report-
- Enter student name: Ezra
- Enter subject:
- Enter scores:
-Do you want to add another subject? (Yes/No): Yes
- Enter student name
- Enter subject
- Enter scores
+- Enter student name: Ezra
+- Enter subject:
+- Enter scores:
+-Do you want to add another subject? (Yes/No): Yes
+- Enter student name
+- Enter subject
+- Enter scores
 #Quiz Generator
-  enter student name:
-  enter subject:
-  enter topic:
-  generate quiz:
+ - enter student name:
+ -  enter subject:
+ - enter topic:
+ - generate quiz:
 
 ##Contributers
 -Marquez, Wynstelle Z. (Tasks overview, grades report)
