@@ -1,4 +1,4 @@
-# Learn-and-Track
+## PROJECT TITLE: Learn-and-Track
 ## Project descrption:
 Learn and track is an individualized platform designed specifically for students, and possibly teachers! 
 In one app, you can calculate & track grades, take note of deadlines, and comply tasks all in one app
