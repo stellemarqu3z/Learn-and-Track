@@ -1,7 +1,7 @@
-## PROJECT TITLE: Learn-and-Track
+## PROJECT TITLE: FocusFlow
 ## Project descrption:
-Learn and track is an individualized platform designed specifically for students, and possibly teachers! 
-In one app, you can calculate & track grades, take note of deadlines, and comply tasks all in one app
+FocusFlow is an individualized platform designed specifically for students, and possibly teachers! 
+In one app, you can take note of deadlines, comply tasks, and create quizzess. All in one app!
 
 ## Features:
 -tasks, deadlines, and grades in one place without switching apps
