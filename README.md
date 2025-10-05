@@ -8,11 +8,9 @@ In one app, you can calculate & track grades, take note of deadlines, and comply
 -	One-tap task creation
 -	Smart categorization by subject/project
 -	Color-coded urgency levels
--	Manually input grades per subject
--	Calculates GWA & visualize performance trends 
--	Highlight weak spots early on  
+ -	Highlight weak spots early on  
 -Built in quiz engine, generating questions from JSON
--generates scores for quiz
+
 
 ## How to run program:
 1. Make sure to have python installed
@@ -36,14 +34,7 @@ Quiz Results:
 - Enter Task: 
 - Enter Deadline:
 -Do you want to view your tasks (Yes/No): Yes
-# Grades Report-
-- Enter student name: Ezra
-- Enter subject:
-- Enter scores:
--Do you want to add another subject? (Yes/No): Yes
-- Enter student name
-- Enter subject
-- Enter scores
+
 #Quiz Generator
  - enter student name:
  -  enter subject:
@@ -51,7 +42,7 @@ Quiz Results:
  - generate quiz:
 
 ##Contributers
--Marquez, Wynstelle Z. (Tasks overview, grades report)
--Duroy, Gaylhynne P. (Quiz generator, grades report)
+-Marquez, Wynstelle Z. (Tasks overview, )
+-Duroy, Gaylhynne P. (Quiz generator, )
 
 
