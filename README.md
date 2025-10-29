@@ -42,7 +42,7 @@ Quiz Results:
  4. generate quiz:
 
 ##Contributers
--Marquez, Wynstelle Z. (Tasks overview, )
--Duroy, Gaylhynne P. (Quiz generator, )
+-Marquez, Wynstelle Z. (Tasks overview)
+-Duroy, Gaylhynne P. (Quiz generator)
 
 
