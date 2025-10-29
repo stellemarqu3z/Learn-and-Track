@@ -14,7 +14,7 @@ In one app, you can take note of deadlines, comply tasks, and create quizzess. A
 
 ## How to run program:
 1. Make sure to have python installed
-2. Download the file Learn-and-track.py
+2. Download the file FocusFlow.py
 3. Open terminal/command prompt
 4. Run the program by pressing F5 or run
 5. Follow the on-screen instructions depending on the purpose
