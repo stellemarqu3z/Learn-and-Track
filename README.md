@@ -29,17 +29,17 @@ Quiz Results:
 
 ##Example output
 # Task overview-
-- Add New Task: Linear equations
-- Enter subject: Algebra
-- Enter Task: 
-- Enter Deadline:
--Do you want to view your tasks (Yes/No): Yes
+1. Add New Task: Linear equations
+2. Enter subject: Algebra
+3. Enter Task: 
+4. Enter Deadline:
+5. Do you want to view your tasks (Yes/No): Yes
 
 #Quiz Generator
- - enter student name:
- -  enter subject:
- - enter topic:
- - generate quiz:
+ 1. enter student name:
+ 2.  enter subject:
+ 3. enter topic:
+ 4. generate quiz:
 
 ##Contributers
 -Marquez, Wynstelle Z. (Tasks overview, )
